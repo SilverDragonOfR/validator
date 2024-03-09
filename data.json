@@ -1,0 +1,10 @@
+[
+    {
+        "string" : "document.querySelector('h1').textContent === 'Hello, World!'",
+        "message" : "There should be an h1 with Hello, World!"
+    },
+    {
+        "string" : "document.querySelector('h2').textContent === 'Hello, Node!'",
+        "message" : "There should be an h2 with Hello, Node!"
+    }
+]
